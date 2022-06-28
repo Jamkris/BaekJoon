@@ -17,5 +17,4 @@ if a[9][1]:
             break
 for i in range(9):
     ans += a[i][0] * (9-i)
-  
 print(ans)
