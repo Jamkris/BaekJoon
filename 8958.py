@@ -24,5 +24,6 @@ while i<a:
 	main_count = 0
 	count = 0
 
+	
 for m in range(a):
 	print(main[m])
