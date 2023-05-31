@@ -7,4 +7,5 @@ for i in range(len(li1)):
   for j in range(len(li2)):
     num += li1[i]*li2[j]
 
+    
 print(num)
