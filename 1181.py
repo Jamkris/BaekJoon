@@ -4,6 +4,7 @@ alph = []
 
 for _ in range(a):
 	al.append(input())
+	
 
 alph = list(set(al))
 #print(alph)  #문자열 겹치는 거 제거
