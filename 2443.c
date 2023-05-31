@@ -12,6 +12,7 @@ int main(void)
 		for (int j=0; j<((a*2)-1)-(2*i); j++) {
 			printf("*");
 		}
+		
 		printf("\n");
 	}
 }
