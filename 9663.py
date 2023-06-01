@@ -3,6 +3,7 @@ n = int(input())
 ans = 0
 row = [0] * n
 
+
 def is_promising(x):
     for i in range(x):
         if row[x] == row[i] or abs(row[x] - row[i]) == abs(x - i):
