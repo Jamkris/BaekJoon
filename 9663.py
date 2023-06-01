@@ -23,5 +23,7 @@ def n_queens(x):
             if is_promising(x):
                 n_queens(x+1)
 
+
+
 n_queens(0)
 print(ans)
